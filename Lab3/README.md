@@ -46,8 +46,8 @@
 | `Products` | **3НФ** | Структура не потребує змін. | **3НФ** |
 | `Locations` | **3НФ** | Структура не потребує змін. | **3НФ** |
 | `Items` | **3НФ** | Структура не потребує змін. | **3НФ** |
-| `Suppliers` | **1НФ ** | Розділення `contact_info` на `email` та `phone`. | **3НФ ** |
-| `Transactions`| **2НФ ** | Винесення `responsible_person` у нову таблицю `Staff`. Додавання FK `staff_id`. | **3НФ ** |
+| `Suppliers` | **1НФ ** | Розділення `contact_info` на `email` та `phone`. | **3НФ** |
+| `Transactions`| **2НФ ** | Винесення `responsible_person` у нову таблицю `Staff`. Додавання FK `staff_id`. | **3НФ** |
 
 ---
 
@@ -100,3 +100,4 @@ ADD CONSTRAINT fk_transactions_staff
 -- 5. (Опціонально) Додаємо поле для приміток
 ALTER TABLE Transactions 
 ADD COLUMN notes TEXT;
+```
