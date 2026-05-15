@@ -97,3 +97,11 @@ VALUES (1, 1, 'NV4090-8877665544', 1, 1, 'На складі', '2026-12-31');
 
 INSERT INTO Transactions (transaction_id, item_id, transaction_type, created_at, responsible_person) 
 VALUES (1, 1, 'Прийом на склад', '2024-05-10 10:00:00', 'Коваленко О.В.');
+
+## Скріншоти SQL
+![SQL table of BaseCharacter](./Знімок екрана 2026-05-15 о 20.40.08.png)
+![SQL table of Attacks](./Знімок екрана 2026-05-15 о 20.39.33.png)
+![SQL table of Effects](./Знімок екрана 2026-05-15 о 20.39.11.jpg)
+![SQL table of Item](./Знімок екрана 2026-05-15 о 20.38.43.jpg)
+![SQL table of Item](./Знімок екрана 2026-05-15 о 20.38.14.jpg)
+![SQL table of Item](./Знімок екрана 2026-05-15 о 20.37.36.jpg)
