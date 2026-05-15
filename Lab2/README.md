@@ -99,9 +99,9 @@ INSERT INTO Transactions (transaction_id, item_id, transaction_type, created_at,
 VALUES (1, 1, 'Прийом на склад', '2024-05-10 10:00:00', 'Коваленко О.В.');
 
 ## Скріншоти SQL
-![SQL table of BaseCharacter](./Знімок екрана 2026-05-15 о 20.40.08.png)
-![SQL table of Attacks](./Знімок екрана 2026-05-15 о 20.39.33.png)
-![SQL table of Effects](./Знімок екрана 2026-05-15 о 20.39.11.jpg)
-![SQL table of Item](./Знімок екрана 2026-05-15 о 20.38.43.jpg)
-![SQL table of Item](./Знімок екрана 2026-05-15 о 20.38.14.jpg)
-![SQL table of Item](./Знімок екрана 2026-05-15 о 20.37.36.jpg)
+![SQL table of BaseCharacter](./Знімок_екрана_2026-05-15_о_20.40.08.png)
+![SQL table of Attacks](./Знімок_екрана_2026-05-15_о_20.39.33.png)
+![SQL table of Effects](./Знімок_екрана_2026-05-15_о_20.39.11.png)
+![SQL table of Item](./Знімок_екрана_2026-05-15_о_20.38.43.png)
+![SQL table of Item](./Знімок_екрана_2026-05-15_о_20.38.14.png)
+![SQL table of Item](./Знімок_екрана_2026-05-15_о_20.37.36.png)
